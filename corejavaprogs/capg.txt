@@ -1,0 +1,7 @@
+rama
+capg
+hasan
+ishika
+100
+true
+5.6
